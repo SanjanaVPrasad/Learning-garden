@@ -49,3 +49,9 @@ Starter learning plans and resource content are included in the source. Review f
 Serve `dist/` using a static hosting provider. The existing privately hosted Sites website is separate from this repository. This upload does not change its access or configure automatic deployment or synchronization. GitHub changes require a separate publishing step to reach that website.
 
 No credentials, private hosting configuration, browser backups, embedded tutor API or dependency folders are included.
+
+## Product documentation
+
+Start with the [documentation index](docs/README.md) for the repository user guide, product brief, decision log, validation plan and proposed roadmap.
+
+The [full PDF guide](docs/Learning_Garden_Product_Guide.pdf) and [editable Word guide](docs/Learning_Garden_Product_Guide.docx) describe hosted release 24, including Calendar. This repository source predates those Calendar changes; see the documentation index for the version boundary. Adding these documents does not update the hosted site or synchronise its source.
